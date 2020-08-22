@@ -1,0 +1,1 @@
+In this method, any missing values in a given column are replaced with the mean (or median, or mode) of that column. ... All the missing values in this variable will be replaced by the value 29.12 which is the mean of all the values that are available to us.
